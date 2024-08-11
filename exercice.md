@@ -88,4 +88,3 @@ Ensuite, tapez `exit` à nouveau pour quitter le conteneur Docker :
 exit
 ```
 
-Voilà, vous avez terminé l'exercice. Vous pouvez maintenant soumettre le résultat que vous avez copié.
